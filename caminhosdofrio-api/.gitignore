@@ -1,0 +1,40 @@
+# ====================
+# Java e Maven
+# ====================
+/target/
+/bin/
+/*.log
+*.class
+*.jar
+*.war
+*.iml
+
+# IntelliJ IDEA
+/.idea/
+/*.ipr
+/*.iws
+*.iml
+out/
+
+# VS Code
+.vscode/
+.history/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de build temporários
+*.tmp
+*.bak
+*.swp
+
+# Arquivos de ambiente
+.env
+*.env
+*.local
+*.secret
+
+# Configurações de banco que não devem ser versionadas (opcional)
+# application.properties
+# application.yml
