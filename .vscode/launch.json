@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CaminhosdofrioApiApplication<caminhosdofrio-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.rotacultural.caminhosdofrio_api.CaminhosdofrioApiApplication",
+            "projectName": "caminhosdofrio-api",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

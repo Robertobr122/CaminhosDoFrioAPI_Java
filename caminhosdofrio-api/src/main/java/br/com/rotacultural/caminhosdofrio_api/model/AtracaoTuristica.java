@@ -2,6 +2,7 @@ package br.com.rotacultural.caminhosdofrio_api.model;
 
 import jakarta.persistence.*;
 
+@Entity
 public class AtracaoTuristica {
     
     @Id
@@ -71,7 +72,7 @@ public class AtracaoTuristica {
         return evento;
     }
 
-    public void setEventoId(Evento eventoId) {
+    public void setEvento(Evento evento) {
         this.evento = evento;
     }
 
